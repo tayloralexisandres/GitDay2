@@ -9,7 +9,7 @@ public class Homepage {
         int c=0;//6
         c=a;//6
         a=b;//4
-        b=c;
+        b=c;//6
         System.out.println(a+" "+b);
 
 
