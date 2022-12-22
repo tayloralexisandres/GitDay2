@@ -6,7 +6,7 @@ public class ContactPage {
 
 
     int radius = 6;
-    int PI = (int) 3.14;
+    int PI = (int) 3.14;/// this is explictly casted
     double area= radius*2*PI;
 
         System.out.println(area);
